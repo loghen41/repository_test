@@ -7,3 +7,11 @@ p {
     font-family: Verdana;
     color: #00ffff;
 };
+
+body {
+    background-color: bisque;
+}
+
+ul {
+    font-family: Sans;
+}
